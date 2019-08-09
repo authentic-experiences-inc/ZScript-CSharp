@@ -1,4 +1,6 @@
 /CMakeOutput/
+/build/
+/.vscode/
 
 # Prerequisites
 *.d

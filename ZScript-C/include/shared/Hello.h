@@ -10,7 +10,16 @@
 
 ZINTERP_API void print();
 
+ZINTERP_API char* ReturnDynamicStr();
+
+ZINTERP_API int ReturnInt();
+
 void print()
 {
     printf("Yeah boi");
+}
+
+int ReturnInt()
+{
+	return 0xBABE;
 }
