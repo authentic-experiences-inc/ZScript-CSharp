@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29201.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZScript-CSharp", "ZScript-CSharp\ZScript-CSharp.csproj", "{A89C255B-CC22-4E15-A944-BCD2495F2BA0}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ZScript-C", "ZScript-C\ZScript-C.vcxproj", "{5B78D36C-726D-4B3A-BE52-0E0CC069C14D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZScript-CSharp", "ZScript-CSharp.csproj", "{A89C255B-CC22-4E15-A944-BCD2495F2BA0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,16 +27,6 @@ Global
 		{A89C255B-CC22-4E15-A944-BCD2495F2BA0}.Release|x64.Build.0 = Release|Any CPU
 		{A89C255B-CC22-4E15-A944-BCD2495F2BA0}.Release|x86.ActiveCfg = Release|Any CPU
 		{A89C255B-CC22-4E15-A944-BCD2495F2BA0}.Release|x86.Build.0 = Release|Any CPU
-		{5B78D36C-726D-4B3A-BE52-0E0CC069C14D}.Debug|Any CPU.ActiveCfg = Debug|Win32
-		{5B78D36C-726D-4B3A-BE52-0E0CC069C14D}.Debug|x64.ActiveCfg = Debug|x64
-		{5B78D36C-726D-4B3A-BE52-0E0CC069C14D}.Debug|x64.Build.0 = Debug|x64
-		{5B78D36C-726D-4B3A-BE52-0E0CC069C14D}.Debug|x86.ActiveCfg = Debug|Win32
-		{5B78D36C-726D-4B3A-BE52-0E0CC069C14D}.Debug|x86.Build.0 = Debug|Win32
-		{5B78D36C-726D-4B3A-BE52-0E0CC069C14D}.Release|Any CPU.ActiveCfg = Release|Win32
-		{5B78D36C-726D-4B3A-BE52-0E0CC069C14D}.Release|x64.ActiveCfg = Release|x64
-		{5B78D36C-726D-4B3A-BE52-0E0CC069C14D}.Release|x64.Build.0 = Release|x64
-		{5B78D36C-726D-4B3A-BE52-0E0CC069C14D}.Release|x86.ActiveCfg = Release|Win32
-		{5B78D36C-726D-4B3A-BE52-0E0CC069C14D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
